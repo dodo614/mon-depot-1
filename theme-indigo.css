@@ -1,0 +1,2 @@
+:root { --primary: #6366f1; --primary-dark: #4338ca; --primary-light: #e0e7ff; --bg: #f5f5ff; }
+.sidebar { background: linear-gradient(180deg, #4338ca, #6366f1); }
